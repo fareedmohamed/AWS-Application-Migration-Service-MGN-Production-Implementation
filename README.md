@@ -1,7 +1,6 @@
-# AWS Application Migration Service (MGN) — Production Implementation Handbook
+# AWS Application Migration Service (MGN) — Production Implementation 
 ## Continuation from Figure 4 (Agent Installed) → Full Cutover & Cleanup
 
-**Scope of this document:** You have already completed discovery, prerequisites, IAM role creation, replication settings template, and installed the MGN Replication Agent on the source server(s) (Figure 4 in the referenced AWS blog). This handbook picks up **immediately after agent installation** and walks through every remaining step to a completed, cleaned-up migration, at the level of detail required to execute this in a real customer environment next week.
 
 **Assumed starting state:**
 - MGN is initialized in the target region (`mgn-region-init` already done, IAM role `AWSApplicationMigrationServiceRolePolicy` / `AWSApplicationMigrationAgentPolicy` in place)
