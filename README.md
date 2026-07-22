@@ -1,5 +1,5 @@
 # AWS Application Migration Service (MGN) — Production Implementation 
-## Continuation from Figure 4 (Agent Installed) → Full Cutover & Cleanup
+## Continuation from (Agent Installed) → Full Cutover & Cleanup
 
 
 **Assumed starting state:**
