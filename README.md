@@ -731,5 +731,3 @@ flowchart LR
 - [ ] CMDB/documentation update plan ready for immediately after go-live
 
 ---
-
-*End of handbook. This document assumes MGN defaults as of the current service behavior; always cross-check field names/console layout against the live console before a production cutover, as AWS periodically refreshes the MGN console UI.*
